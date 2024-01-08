@@ -7,13 +7,13 @@ alert("Olá mundo")
 
 //====================================================
 
-/*
+
 // Programa #2:
 //  Criar uma caixa de entrada para inserir um valor e mostrar em um alerta.
 
 let nome = prompt("Digite seu nome")
 alert("Olá " + nome)
-*/
+
 
 //====================================================
 

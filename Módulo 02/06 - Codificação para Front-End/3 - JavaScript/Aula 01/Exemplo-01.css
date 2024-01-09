@@ -1,3 +1,12 @@
-h3{
+
+h1{
+    color: aqua;
+}
+.H1class{
     color: blue;
+    text-align:left
+}
+p{
+    color: red;
+    text-align: center;
 }
